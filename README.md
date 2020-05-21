@@ -120,6 +120,17 @@ Dans le cas de IndividualStatPrinter, l'auteur sur lequel les méthodes doivent 
 dans la variable globale AUTHOR que vous pouvez trouver dans le module utils.py
 
 ######## TODO ############
+
+Total number of messages sent.
+Total number of times the user sent "lol".
+Total number of times the user sent "lmao".
+Total number of times the user sent emojis.
+Total number of profanities the user sent. The only profanities to check for are "fuck", "merde", "putain", "ass".
+Total number of times the user recieved emojis.
+Total number of times the user recieved the angry 😡 emoji.
+Total number of times the user sent and recieved the words "amen", "akpe", "merci", "nagode", "imela", "thanks", "thank you", "alhamdulillah", "shukran"
+
+
 *... Faire de sorte que l'user puisse choisir lui-même la fonction de statistique qu'il veut utiliser
 *... Afficher de l'aide accessible depuis le terminal pour toutes les fonctions à afficher les stats
 *... Développer le mode interactif
